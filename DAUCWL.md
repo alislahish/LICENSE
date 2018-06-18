@@ -4,9 +4,8 @@
 ###### 2018-06-18 (anwarhahjjeffersongeorge@gmail.com)
 
 --------------------------------------------
-
-# Prior Art Good-faith Triad:
 --------------------------------------------
+# Prior Art Good-faith Triad:
 0. This work or software wasn't all created
 by the above-designated artists. It uses
 prior art that may include other parties'
@@ -27,10 +26,8 @@ they have the responsibility to do so in
 accordance with any applicable or intended
 licenses therein.
 
-
-# Artists' and User-audiences' Good-faith Triad:
 --------------------------------------------
-
+# Artists' and User-audiences' Good-faith Triad:
 0. These artists will neither
     + delete,
     + erase,
