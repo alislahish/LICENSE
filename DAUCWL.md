@@ -1,4 +1,4 @@
-#### DAUCWL Designated  Artists' _and_  User-audiences' Creative Works License
+#### Designated  Artists' _and_  User-audiences' Creative Works License (DAUCWL)
 
 ###### Designated Artists:
 ###### 2018-06-18 (anwarhahjjeffersongeorge@gmail.com)
@@ -9,13 +9,13 @@
 0. This work or software wasn't all created
 by the above-designated artists. It uses
 prior art that may include other parties'
-creative output. Where it uses prior
-art, it does, intends to, and will
-do so in accordance with the licensing terms
-and of that prior art.
+creative output or software dependencies.
+Where it uses such prior art, it does,
+intends to, and will do so in accordance with
+the licensing terms of that prior art.
 
-0. When other parties use the designated artists'
-contributions, these artists grant them the
+0. Other parties may use these artists'
+contributions. When they do so, they have
 _freedom to choose_ to do so as they wish.
 By doing so, they inherently accept the sole
 responsibility for all outcomes.
@@ -38,8 +38,7 @@ licenses therein.
 
 0. These artists' contributions
 to these works
-
-    + Obligate user-audiences including you in
+    + Obligate user-audiences, including you, in
     no way to these artists,
     + Obligate these artists to fulfill no
     responsibilities apart from those
@@ -53,20 +52,23 @@ to these works
       - guarantees in any form.
 
 0. When these artists use
+    + software dependencies,
     + other works,
     + prior works, or
     + source works,
 these artists will work to keep them
-updated in the file ./package.json, made
-publicly available in the same location as
-this document.
+updated in files made publicly available in
+the same location as the works this license
+pertains to, such as in a top-level file
+named `package.json`.
 
 --------------------------------------------
 ###### Designated Artists' Design Statement:
 
 0. At the time of this writing,
   the official source for this DAUCWL license
-  is the repository located at [https://github.com/alislahish/LICENSE][1].
+  is the repository located at
+  [https://github.com/alislahish/LICENSE][1].
 0. This license document should be updated by
   each artist that uses it upon such use or upon
   publication of a covered work.
