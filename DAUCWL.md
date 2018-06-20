@@ -34,7 +34,7 @@ licenses therein.
     + modify, nor
     + obfuscate
   the terms of any _OTHER_ license contained
-  in any source work that they use.
+  in any source work that they use. 
 
 0. These artists' contributions
 to these works
